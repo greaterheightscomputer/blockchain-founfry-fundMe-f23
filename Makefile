@@ -25,3 +25,4 @@ deploy-sepolia:
 # adduser@LAPTOP-EM3P6O44:~/foundry-f23/foundry-fund-me-f23$ git remote add origin https://github.com/greaterheightscomputer/blockchain-founfry-fundMe-f23.git
 # adduser@LAPTOP-EM3P6O44:~/foundry-f23/foundry-fund-me-f23$ git branch -M main
 # adduser@LAPTOP-EM3P6O44:~/foundry-f23/foundry-fund-me-f23$ git push -u origin main
+# github url: https://github.com/greaterheightscomputer/blockchain-founfry-fundMe-f23.git
